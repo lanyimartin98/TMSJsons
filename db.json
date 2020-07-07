@@ -1,16 +1,8 @@
-[
 {
     "id": 1,
     "place": "Valahova",
     "start": "2020-07-16",
     "end": "2020-7-25",
     "state": "Elszamorásra vár"
-  },
-  {
-    "id": 2,
-    "place": "Valahova",
-    "start": "2020-08-09",
-    "end": "2020-8-14",
-    "state": "Elszamorásra vár"
   }
-]
+  
